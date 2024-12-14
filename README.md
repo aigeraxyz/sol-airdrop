@@ -4,7 +4,7 @@ For each wallet in the list, the program performs a series of operations on diff
 
 ### Protocols and activities
 
-dift.tade:
+drift.tade:
  - Swapping SOL to USDC/JUP/BONK randomly and back
  - SOL staking and lending
  - Open spot positions on SOL (open and close)
@@ -43,7 +43,7 @@ bebop.xyz:
   },
   "WorkingMode": { // which protocols we use
     "Jupiter": "true",
-    "Dift": "true",
+    "Drift": "true",
 	"Kamino": "true",
     "Margin": "true",
 	"Bebop": "true"
