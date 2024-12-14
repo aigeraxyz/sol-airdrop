@@ -1,4 +1,5 @@
 ### About
+![](https://github.com/aigeraxyz/sol-airdrop/blob/main/screen.png?raw=true)
 
 For each wallet in the list, the program performs a series of operations on different decentralized finance protocols. These tasks include actions like swapping SOL for other tokens or providing liquidity across multiple token pairs. The execution is powered by SolanaSDK and Net Framework 4.8. Currently, five protocols on the Solana network are integrated for token swapping functionality.
 
